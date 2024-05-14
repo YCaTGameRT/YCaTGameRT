@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YCaTGameRT
-- 👀 I’m interested in ...
+- 👀 I’m interested in creating games
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on @farfind
-- 📫 How to reach me ...
+- 📫 How to reach me: 
 
 <!---
 YCaTGameRT/YCaTGameRT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
